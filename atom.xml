@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loylosky.github.io</id>
     <title>Lullay</title>
-    <updated>2020-02-07T14:06:28.280Z</updated>
+    <updated>2020-02-07T14:20:53.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loylosky.github.io"/>
     <link rel="self" href="https://loylosky.github.io/atom.xml"/>
-    <subtitle>随笔·感想·期望</subtitle>
+    <subtitle>随笔 · 感想 · 期望</subtitle>
     <logo>https://loylosky.github.io/images/avatar.png</logo>
     <icon>https://loylosky.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lullay</rights>
@@ -16,11 +16,15 @@
         <link href="https://loylosky.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <summary type="html"><![CDATA[<p>字 数    阅读时间<br>
+329      1m 14s</p>
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
 <img src="https://loylosky.github.io/post-images/1581084023986.jpg" alt=""></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<p>字 数    阅读时间<br>
+329      1m 14s</p>
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
 <img src="https://loylosky.github.io/post-images/1581084023986.jpg" alt=""></p>
 <!-- more -->
