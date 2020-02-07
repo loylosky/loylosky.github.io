@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>Gridea | Lullay</title>
+<title>旧的笔记与感想 | Lullay</title>
 <meta name="description" content="随笔 · 感想 · 期望">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -13,6 +13,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://loylosky.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -107,36 +113,52 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: Gridea</h2>
-          
-            <article class="post-item">
-              <div class="left">
+          <div class="post-detail">
+            <h2 class="post-title">旧的笔记与感想</h2>
+            <div class="post-date">2020-02-07</div>
+            
+            <div class="post-content">
+              <h2 id="浅析四校联考政策">浅析四校联考政策</h2>
+<h2 id="突破教育资源地域分配壁垒">——突破教育资源地域分配壁垒</h2>
+<pre><code>                                                                    01/25/2019
+</code></pre>
+<p>教育资源资本化</p>
+<p>资本流入政府 生源流向学校<br>
+资源流向学生 win win win</p>
+<p>从本土居民中划出教育资源：利益支出者<br>
+获得教育资源的家庭：利益既得者<br>
+政府：利益分配者</p>
+<p>##分析：<br>
+实际利益所有人是原住居民不是政府<br>
+但是是政府的存在使得利益所有人获得利益（就公立学校而言，可以获得大量政府资金）</p>
+<p>若是换成私立学校 则利益分配者、所有者、支出者同体 通过货币或其他资本形式进行商品交换</p>
+<p>所以矛盾是利益分配者为了自身利益进行重新分配的结果</p>
+<p>宏观层面：政策的实施有助于推进社会主义<br>
+社会主义的前提条件是剩余价值过剩？</p>
+<p>高考移民</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
                 <a href="https://loylosky.github.io/post/hello-gridea">
-                  <h2 class="post-title">Hello Gridea</h2>
+                  <h3 class="post-title">
+                    Hello Gridea
+                  </h3>
                 </a>
-                <div class="post-date">
-                  2018-12-12
-                </div>
-                <div class="post-abstract">
-                  <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
-<img src="https://loylosky.github.io/post-images/1581086178929.jpg" alt=""></p>
-
-                </div>
               </div>
-              
-                <a class="right" href="https://loylosky.github.io/post/hello-gridea">
-                  <div class="feature-container" style="background-image: url('https://loylosky.github.io/post-images/hello-gridea.png')">
-                  </div>
-                </a>
-              
-            </article>
-          
+            
 
-          <div class="pagination-container">
-  
-  
-</div>
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -158,6 +180,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '793abed8223c17c16061',
+        clientSecret: 'f973b8daadaceb52abfddfe568e23e7c7965b827',
+        repo: 'comment',
+        owner: 'loylosky',
+        admin: ['loylosky'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
