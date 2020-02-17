@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loylosky.github.io</id>
     <title>Lullay</title>
-    <updated>2020-02-15T07:46:52.018Z</updated>
+    <updated>2020-02-17T17:03:03.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loylosky.github.io"/>
     <link rel="self" href="https://loylosky.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://loylosky.github.io/images/avatar.png</logo>
     <icon>https://loylosky.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lullay</rights>
+    <entry>
+        <title type="html"><![CDATA[寄生虫]]></title>
+        <id>https://loylosky.github.io/post/ji-sheng-chong</id>
+        <link href="https://loylosky.github.io/post/ji-sheng-chong">
+        </link>
+        <updated>2020-02-17T16:56:59.000Z</updated>
+        <content type="html"><![CDATA[<p>生而为人</p>
+<p>父亲躺在体育馆的地上，对儿子说：“没有计划多好呀，这样计划就永远不会失败了。”</p>
+<p>基宇站在窗边，看着草坪上嬉闹的人群，“我合适吗？”，他对大小姐说，大小姐一脸疑惑地看着他，点了点头。</p>
+<p>“伊司机能找到下一家吗？”父亲说，“他这样年轻力壮，一定可以的吧”基宇回应道。主人回来了，他们一家像蟑螂一样四处逃窜，最后藏在茶几底下。</p>
+<p>有计划真的能变好吗？不知道。但没有计划什么变化也不会有。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于贫瘠]]></title>
         <id>https://loylosky.github.io/post/guan-yu-pin-ji</id>
