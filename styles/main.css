@@ -11,11 +11,11 @@
  */
 .mdui-theme-primary-purple .mdui-color-theme {
   color: #fff !important;
-  background-color: #9c27b0 !important;
+  background-color: #233333 !important;
 }
 .mdui-theme-primary-purple .mdui-color-theme-500 {
   color: #fff !important;
-  background-color: #9c27b0 !important;
+  background-color: #233333 !important;
 }
 .mdui-theme-accent-purple .mdui-color-theme-accent {
   color: #fff !important;
@@ -27,11 +27,11 @@
 }
 .mdui-color-purple {
   color: #fff !important;
-  background-color: #9c27b0 !important;
+  background-color: #233333 !important;
 }
 .mdui-color-purple-500 {
   color: #fff !important;
-  background-color: #9c27b0 !important;
+  background-color: #233333 !important;
 }
 .mdui-color-purple-accent {
   color: #fff !important;
@@ -53,10 +53,10 @@
   background-color: transparent !important;
 }
 .mdui-theme-primary-purple .mdui-text-color-theme {
-  color: #9c27b0 !important;
+  color: #233333 !important;
 }
 .mdui-theme-primary-purple .mdui-text-color-theme-500 {
-  color: #9c27b0 !important;
+  color: #233333 !important;
 }
 .mdui-theme-accent-purple .mdui-text-color-theme-accent {
   color: #e040fb !important;
@@ -65,10 +65,10 @@
   color: #d500f9 !important;
 }
 .mdui-text-color-purple {
-  color: #9c27b0 !important;
+  color: #233333 !important;
 }
 .mdui-text-color-purple-500 {
-  color: #9c27b0 !important;
+  color: #233333 !important;
 }
 .mdui-text-color-purple-accent {
   color: #e040fb !important;
