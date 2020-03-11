@@ -4,8 +4,8 @@
  * Licensed under MIT
  * 
  * Included modules:          button,grid,menu,ripple,shadow,typo
- * Included primary colors:   purple
- * Included accent colors:    purple
+ * Included primary colors:   233333
+ * Included accent colors:    233333
  * Included color degrees:    500,a400
  * Included layout:           
  */
@@ -2822,7 +2822,7 @@ a {
   text-decoration: none;
 }
 .header {
-  padding: 320px 0px 320px 0px;
+  padding: 110px 0px 110px 0px;
   background: #515865 center no-repeat;
   font-size: 16px;
   color: #fff;
