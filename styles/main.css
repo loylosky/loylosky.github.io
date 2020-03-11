@@ -2818,7 +2818,7 @@ body {
   font-weight: 400;
 }
 a {
-  color: #c361d4bd;
+  color: #515865;
   text-decoration: none;
 }
 .header {
@@ -2836,7 +2836,7 @@ a {
   background-size: cover;
 }
 .yinying {
-  box-shadow: 0 5px 7px #c361d4bd;
+  box-shadow: 0 5px 7px #c0c0c0;
 }
 header img {
   width: 100%;
@@ -2863,7 +2863,7 @@ header img {
   color: #333;
 }
 .index-list-title:hover {
-  color: #9c27b0;
+  color: #c0c0c0;
 }
 .index-list-neirong {
   height: 50px;
@@ -2886,12 +2886,12 @@ header img {
 .index-list-biaoqian {
   padding: 5px 10px;
   border-radius: 10px;
-  background-color: rgba(156, 39, 176, 0.49);
+  background-color: rgba(81, 88, 101, 0.49);
   color: #FFF;
   font-size: 12px;
 }
 .index-list-anniu {
-  background-color: rgba(156, 39, 176, 0.21);
+  background-color: rgba(81, 88, 101, 0.21);
 }
 .yinying:hover {
   box-shadow: 0px 0px;
@@ -2935,11 +2935,11 @@ header img {
   margin-bottom: 10px;
 }
 .copyright a {
-  color: #e040fb;
+  color: #b5b6b7;
   transition: all 0.5s;
 }
 .copyright a:hover {
-  color: #fe6061;
+  color: #88b3e2;
 }
 .copyright p {
   font-size: 13px;
@@ -2959,12 +2959,12 @@ header img {
   margin-right: 15px;
 }
 .social-link a {
-  color: #e040fb;
+  color: #c0c0c0;
   font-size: 22px;
   transition: all 0.5s;
 }
 .social-link a:hover {
-  color: #fe6061;
+  color: #88b3e2;
 }
 /*高亮*/
 .hljs,
