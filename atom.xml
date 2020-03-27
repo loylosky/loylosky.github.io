@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loylosky.github.io</id>
     <title>Lullaby</title>
-    <updated>2020-03-27T04:23:12.244Z</updated>
+    <updated>2020-03-27T04:23:59.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loylosky.github.io"/>
     <link rel="self" href="https://loylosky.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://loylosky.github.io/images/avatar.png</logo>
     <icon>https://loylosky.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lullaby</rights>
+    <entry>
+        <title type="html"><![CDATA[留学中介不完全指南]]></title>
+        <id>https://loylosky.github.io/post/liu-xue-zhong-jie-xuan-ze-bu-wan-quan-zhi-nan/</id>
+        <link href="https://loylosky.github.io/post/liu-xue-zhong-jie-xuan-ze-bu-wan-quan-zhi-nan/">
+        </link>
+        <updated>2020-03-27T02:48:58.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>字数：879    阅读时间：2m 57s</p>
+<h2 id="机构背景">机构背景</h2>
+<p>防止机构跑路，然后机构背景强大售前售后服务相对好。</p>
+<h2 id="导师">导师</h2>
+<p>导师&gt;机构。再好的机构也有划水的导师。在签约前最好能够了解导师的具体情况，比如历史战绩、性格特点（是否与你合拍）等</p>
+<h2 id="合约详情">合约详情</h2>
+<p>对于研究生申请来说，比较推荐半DIY，自主性比较高，能够对申请过程有一个清晰的掌握，但是比较费时，如果时间比较紧张可以考虑全包。</p>
+<h2 id="机构资源">机构资源</h2>
+<p>一些实习和科研的资源，可以说是附赠的，背景大的机构的这类机会一般会多一些，不过一些小机构有关系也可以拿到很好的资源。</p>
+<h3 id="一些想法">一些想法</h3>
+<p>我当时问了留学机构工作的学姐，她推荐的中介有新通、凯银和他们家（郁林），加上自己在联系的世毕盟，所以一共就在这四家里面选了。首先从机构背景来选，排除郁林。理由的话感觉他们才刚刚做这块，经验比较少，而且主要是做语言，所以觉得不太靠谱。然后就是挨家挨户去聊，和售前聊一下，或者可以直接约咨询师聊（我记得凯银可以）。当时因为时间比较少（比较懒）就只聊了凯银和世毕盟。然后他们当时给我的印象：</p>
+<p><strong>凯银</strong>：比较大牌的机构了，办公环境挺好，业内声誉也蛮高，但是咨询师给人感觉也比较大牌<br>
+<strong>世毕盟</strong>：一开始有种小作坊的感觉，机构比较精简。一开始聊的话是和售前，世毕盟这个地方有点奇怪，就是在没有签约之前是不能直接和咨询师聊的，甚至不能确定派的咨询师是谁。（这点比较减分）就售前聊天来说，回答问题挺耐心，也不会一直追着签约，总体感觉还可以。</p>
+<p><strong>感受：</strong><br>
+目前总的来说，世毕盟给我的感受还是ok的。日常的话有问题都会回，时间不固定，不会超过1天。日常如果太久没联系会主动跟进一下目前的进度。</p>
+<p><strong>售后服务</strong>：售前小姐姐有一次约了我和学姐出来吃饭，算是牵线搭桥了吧。<br>
+<strong>咨询师</strong>：当时了解到有一位本专业签世毕盟的学姐，转的EE最后去了CIT。当时学姐给的反馈挺好的，而且考虑到有本专业学姐转专业的经验，就直接让她们安排同样的一套师资配置。然后发现现在的咨询师年年拿年终奖也算是世毕盟里面比较厉害的。<br>
+<strong>合约</strong>：感觉世毕盟对申PHD的背景提升比较在行，一直在强调暑研。<br>
+<strong>资源</strong>：资源的话感觉他们实习给的比较多，科研少一些。（缺点）</p>
+<p>因为没有经历过其他机构，也不知道这样的服务算不算到位。每个人的预期和要求都不一样，包括上面的那些评价其实也很难做到完全客观，推荐的话会有先入为主的问题，所以还是推荐多和几家聊一下，找到适合自己的机构就可以了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寄生虫]]></title>
         <id>https://loylosky.github.io/post/ji-sheng-chong/</id>
